@@ -16,7 +16,7 @@
 ## 💻TECHNICAL SKILLS
 > Java, C, Dart, Python, Mysql, JavaScript, PHP, HTML 💡
 
-> Java Spring Boot, Flutter 💡 
+> Java Spring Boot, Flutter, Docker, Postman 💡 
 <!--
 **Supakarn-Y/Supakarn-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
