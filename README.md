@@ -2,7 +2,7 @@
 
 👦🏻 สวัสดีครับ ผม ศุภกานต์ อยู่จงดี หรือชื่อเล่นว่า "กัน" นักศึกษาชั้นปีที่ 4 สาขาวิทยาการคอมพิวเตอร์ ภาควิชาคอมพิวเตอร์ มหาวิทยาลัยศิลปากร
 
-🌱 I’m currently learning Full-stack, Back-End, Front-End, DevOPs & more.. 😍
+🌱 I’m currently learning Full-stack, Back-End, Front-End, DevOps & more.. 😍
 
 ## 💖Get in touch
 
@@ -16,7 +16,7 @@
 ## 💻TECHNICAL SKILLS
 > Java, C, Dart, Python, Mysql, JavaScript, PHP, HTML 💡
 
-> Java Spring Boot, Flutter, Docker, Postman 💡 
+> Java Spring Boot, Flutter, Docker, Postman, Kong, Lens 💡 
 <!--
 **Supakarn-Y/Supakarn-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
