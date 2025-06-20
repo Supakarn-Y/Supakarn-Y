@@ -1,20 +1,19 @@
 ### Hi I'm Supakarn, Welcome to my Github profile 👋
 
-🌱 I’m currently working as a DevOps Engineer & site reliability engineer 😍
+🌱 I’m currently working as a site reliability engineer
 
-## 💖Get in touch
+## Get in touch
 
 🤚🏻[LinkedIn](https://www.linkedin.com/in/supakarn-yoojongdee/)
 
-## ✨Quotes
-> "Don’t let your dreams be dreams"✌🏼
-
 ## 💻TECHNICAL SKILLS
-> Java, C, Dart, Python, Mysql, JavaScript, PHP, HTML 💡
+> Java, C, Dart, Python, Dart, JavaScript, PHP, HTML 💡
 
 > Java Spring Boot, Flutter,Kubernetes, Docker, Postman, Kong, Lens 💡
 
-> Mysql, Clickhouse, Postgresql, Redis, Rabbitmq, Kafka 💡
+> Docker, Kubernetes, Gitlab Server, Gitlab Runner, JenkinsPostman, Apisix, Hashicorp vault, Lens 💡
+
+> Mysql, MongoDB, Clickhouse, Postgresql, Redis, Rabbitmq, Kafka 💡
 
 > Grafana, Prometheus, Zabbix 💡
 <!--
